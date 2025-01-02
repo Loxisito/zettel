@@ -9,7 +9,7 @@ template:
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://loxisito.github.io/zettel
+  #editBaseUrl: https://loxisito.github.io/zettel
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
